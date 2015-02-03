@@ -1,7 +1,11 @@
 body{}
+a{
+text-decoration: none;
+text-color:grey;}
 .logoTopLeft{}
 .imageOverlayText{}
 .title{
+    text-transform:uppercase;
 text-align:center;}
 .body{
 width:900px;
