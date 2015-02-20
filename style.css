@@ -75,16 +75,15 @@ padding-left:3px;
 
 .imageOverlayText {
 width:100%;
-height:10%;
+height:100%;
 position:relative;
     top:40%;
-font-family:Futura, sans-serif;
+font-family: Futura, sans-serif;
 font-size:2em;
 letter-spacing:1px;
 text-align:center;
 text-transform:uppercase;
-color:#000;
-opacity:0.9;
+
 }
 
 
@@ -104,6 +103,7 @@ margin-top:10px;
 line-height:180%;
 text-align: justify;
 }
+
 
 .cred {
 position:fixed;
