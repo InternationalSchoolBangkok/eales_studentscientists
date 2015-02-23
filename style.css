@@ -104,6 +104,13 @@ line-height:180%;
 text-align: justify;
 }
 
+.textContainer{
+position: relative;
+top: 50%;
+transform:translateY(-50%); 
+ margin-top:-21px;
+}
+
 
 .cred {
 position:fixed;
